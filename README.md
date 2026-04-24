@@ -7,15 +7,17 @@ Aplikasi **personal finance tracker berbasis Flutter** untuk membantu pengguna m
 # Preview Aplikasi
 
 
-![halaman pembuka 1](Images/pembuka1.jpeg)
-![halaman pembuka 2](Images/pembuka2.jpeg)
-![halaman pembuka 3](Images/pembuka3.jpeg)
-![halaman login](Images/login.jpeg)
-![halaman register](Images/register.jpeg)
-![Home Screen](Images/beranda.jpeg)
-![Analytics Screen](Images/analisis.jpeg)
-![Savings Goal Screen](Images/tabungan.jpeg)
-![Profile Screen](Images/profil.jpeg)
+<p align="center">
+  <img src="Images/pembuka1.jpeg" alt="halaman pembuka 1" width="200">
+  <img src="Images/pembuka2.jpeg" alt="halaman pembuka 2" width="200">
+  <img src="Images/pembuka3.jpeg" alt="halaman pembuka 3" width="200">
+  <img src="Images/login.jpeg" alt="halaman login" width="200">
+  <img src="Images/register.jpeg" alt="halaman register" width="200">
+  <img src="Images/beranda.jpeg" alt="Home Screen" width="200">
+  <img src="Images/analisis.jpeg" alt="Analytics Screen" width="200">
+  <img src="Images/tabungan.jpeg" alt="Savings Goal Screen" width="200">
+  <img src="Images/profil.jpeg" alt="Profile Screen" width="200">
+</p>
 
 ---
 
